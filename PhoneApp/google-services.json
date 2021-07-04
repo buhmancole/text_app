@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "472782041681",
+    "project_id": "hw3-48ab4",
+    "storage_bucket": "hw3-48ab4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472782041681:android:9def0c41dc131b97793e70",
+        "android_client_info": {
+          "package_name": "com.colebuhmanhw3.phoneapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472782041681-hig31i37f5cjf9j752plm9m3aceoofpp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9AHEuZ6XDjMeEIkw7SkogPjnmVP9JgMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472782041681-hig31i37f5cjf9j752plm9m3aceoofpp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

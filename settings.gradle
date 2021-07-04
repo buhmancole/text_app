@@ -1,0 +1,4 @@
+include ':WatchApp'
+include ':API'
+include ':PhoneApp'
+rootProject.name = "3200hw3"
